@@ -7,8 +7,8 @@
 
 ## Quick Links
 
-- **Registration:** [Register Your Team](https://forms.gle/PATD8iapvpaVgrdH6)
-- **Payment (Due immediately after registration):** [PayPal Checkout](https://www.paypal.com/ncp/payment/RLZXV4SU4J8GG)
+- **Registration:** TBD
+- **Payment (Due immediately after registration):** TBD
 - **Discord:** [discord.gg/PczPADKPvf](https://discord.gg/PczPADKPvf)
 - **Twitter (X):** [@PlayCrossFireGG](https://x.com/PlayCrossFireGG)
 - **Twitch:** [PlayCrossFire](https://www.twitch.tv/PlayCrossFire)
@@ -31,7 +31,7 @@ CrossfireGG operates as an open-registration Tier-2 structured competition. **Se
 - **Location:** Online (FACEIT)
 - **Teams:** Up to 56 Teams (48 Group Stage Teams + 8 top-seeded teams receiving a Playoff bye — all determined through open registration; final count depends on signups)
 - **Entry Fee:** $200 per team
-- **Payment:** Due immediately after registration submission via [PayPal](https://www.paypal.com/ncp/payment/RLZXV4SU4J8GG)
+- **Payment:** Due immediately after registration submission via PayPal
 - **Prize Pool:** $10,000 USD (1st: $6,000 USD | 2nd: $3,000 USD | 3rd: $1,000 USD)
 
 ---
@@ -144,8 +144,8 @@ Full team-by-team seeding will be published in [Teams and Rankings](Teams.md) on
 - **All teams enter via open registration** — Any eligible North American team may register until all 48 Group Stage slots are filled
 - **No Direct VRS Invites** — VRS standings are used only as a transparent reference for competitive seeding within an open registration format; the top 8 seeds bye to Playoffs as a result of that seeding, not as an invitation
 - All current VRS-ranked teams are confirmed eligible to register
-- **Register Here:** [https://forms.gle/PATD8iapvpaVgrdH6](https://forms.gle/PATD8iapvpaVgrdH6)
-- **Payments Due Right After Submission:** [https://www.paypal.com/ncp/payment/RLZXV4SU4J8GG](https://www.paypal.com/ncp/payment/RLZXV4SU4J8GG)
+- **Register Here:** TBD
+- **Payments Due Right After Submission:** TBD
 
 ### VRS Seeding Priority
 
@@ -169,8 +169,8 @@ Teams are seeded based on their standing in the VRS Leaderboard (Americas), usin
 
 | Date | Milestone |
 |------|-----------|
-| **October 2, 2026** | Tournament Announced |
-| **October 16, 2026** | Signups Open |
+| **September 25, 2026** | Tournament Announced |
+| **October 10, 2026** | Signups Open at 7:00 PM EST |
 | **October 30, 2026** | Signups Close (or earlier if all 48 Group Stage slots fill) |
 | **October 30 – November 1, 2026** | Seeding, VRS Lookup, and Group Draws Published |
 | **November 2, 2026** | Group Stage Begins (Round 1) / First Match |
