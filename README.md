@@ -44,7 +44,7 @@ All teams must maintain a consistent Team Core (3 players) for competitive integ
 
 ### VRS Teams
 
-- Must maintain at least three (3) players from the matched VRS roster (snapshot date TBD — see Timing below) **at all times, including throughout the Playoffs**
+- Must maintain at least three (3) players from the matched VRS roster (snapshot date October 5th, 2026 — see Timing below) **at all times, including throughout the Playoffs**
 - Changing one or two players does not affect VRS eligibility
 - Falling below three snapshot players results in immediate disqualification to preserve VRS integrity
 - This requirement is unaffected by the Season 7 Playoff substitution allowance below — VRS core presence is mandatory regardless of when a substitution is made
