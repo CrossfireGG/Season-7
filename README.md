@@ -7,7 +7,6 @@
 
 ## Quick Links
 
-- **Registration:** [Register Your Team](https://forms.gle/PATD8iapvpaVgrdH6)
 - **Payment (Due immediately after registration):** [PayPal Checkout](https://www.paypal.com/ncp/payment/RLZXV4SU4J8GG)
 - **Discord:** [discord.gg/PczPADKPvf](https://discord.gg/PczPADKPvf)
 - **Twitter (X):** [@PlayCrossFireGG](https://x.com/PlayCrossFireGG)
