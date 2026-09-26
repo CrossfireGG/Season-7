@@ -127,10 +127,13 @@ Full team-by-team seeding will be published in [Teams and Rankings](Teams.md) on
 - WB Round of 32: November 14 – November 16
 - WB Round of 16 + Losers Round 1: November 17 – November 19
 - WB Quarterfinals + Losers Round 2: November 20 – November 22
+WB Quarterfinals may be rescheduled through November 25.
 - Losers Round 3: November 23 – November 25
 - WB Semifinals + Losers Round 4: November 26 – November 28
+WB Semifinals may be rescheduled through December 1.
 - Losers Round 5: November 29 – December 1
 - WB Final + Losers Round 6: December 2 – December 4
+WB Final may be rescheduled through December 7.
 - Losers Round 7: December 5 – December 7
 - Losers Final: December 8 – December 10
 - Grand Final (BO5): December 11 – December 13
