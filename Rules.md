@@ -122,7 +122,7 @@
   * Round 2: Nov 5 – Nov 7 (Default: middle day @ 8 PM EST).
   * Round 3: Nov 8 – Nov 10 (Default: middle day @ 8 PM EST).
 * 2.2.5 **Advancement:** Top 2 teams from each group advance to Playoffs (24 teams).
-* 2.2.6 Teams may reschedule matches within the round window with mutual agreement.
+* 2.2.6 Teams may reschedule matches within the group stage window with mutual agreement.
 * 2.2.7 **Tiebreakers:** Head-to-Head result between tied teams is the **primary tiebreaker**, followed by round differential / other standard metrics.
 
 ### 2.3 Playoff Stage
@@ -183,6 +183,7 @@
 * 3.4.3 **BO5 Grand Final Veto Format:** A removes → B removes → A picks → B picks → A picks → B picks → Remaining map.
 * 3.4.4 In the Grand Final, the remaining unpicked map is awarded to the **Upper Bracket winner as its automatic map advantage**. This map is **not played**.
 * 3.4.5 The Upper Bracket winner begins the Grand Final with a **1–0 series lead**. The four picked maps are played in the order selected, and the first team to reach **3 total map wins**, including the awarded map advantage, wins the Grand Final.
+* 3.4.6 The higher-seeded team chooses whether to act first or second in the map veto. Team A is the team acting first, and Team B is the team acting second. This applies to both BO3 matches and the BO5 Grand Final.
 
 ### 3.5 Server Location
 
@@ -369,6 +370,7 @@
 
 * 9.1.1 Total prize pool: **$10,000 USD**.
 * 9.1.2 Prize distribution will be published with final brackets.
+* 1st: $6,000 2nd: $3,000 3rd: $1,000.
 
 ### 9.2 Prize Distribution
 
