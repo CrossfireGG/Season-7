@@ -173,7 +173,7 @@ Teams are seeded based on their standing in the VRS Leaderboard (Americas), usin
 |------|-----------|
 | **September 25, 2026** | Tournament Announced |
 | **October 5, 2026** | VRS Publication Snapshot (fixed date used for all Season 7 seeding) |
-| **October 10, 2026, 7:00 PM EST** | Signups Open |
+| **October 10, 2026, 8:00 PM EST** | Signups Open |
 | Rolling | Signups Close once all 48 Group Stage slots are filled (no fixed close date) |
 | After Signups Close | Seeding, VRS Lookup, and Group Draws Published |
 | **November 2, 2026** | Group Stage Begins (Round 1) / First Match |
@@ -246,7 +246,7 @@ Format, entry fee, prize pool, and match structure are **unchanged from Season 6
 ### Schedule
 
 - **Season 6:** Group Stage began August 31, 2026; season ran ~6 weeks.
-- **Season 7:** Group Stage begins November 2, 2026; season again runs ~6 weeks (November 2 – December 13). Signups open October 10, 2026 at 7:00 PM EST and remain open on a rolling basis until all 48 Group Stage slots fill (no fixed close date). Seeding uses the fixed VRS publication dated October 5, 2026.
+- **Season 7:** Group Stage begins November 2, 2026; season again runs ~6 weeks (November 2 – December 13). Signups open October 10, 2026 at 8:00 PM EST and remain open on a rolling basis until all 48 Group Stage slots fill (no fixed close date). Seeding uses the fixed VRS publication dated October 5, 2026.
 
 > **Note:** the full Group Stage and Playoff round schedule below has now been confirmed against the official Season 7 announcement and matches what was originally extrapolated from Season 6's cadence; no changes were needed. The three Winner's Bracket extended-reschedule windows (Quarterfinals/Semifinals/Final) were added from that announcement, since they weren't part of the original extrapolation.
 
