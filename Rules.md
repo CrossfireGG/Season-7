@@ -446,7 +446,7 @@ Crossfire uses a **three-strike system per season**. Admins may proceed directly
 ### 8.2 Admin Communication
 
 * 8.2.1 All communication with Crossfire admins done via Discord 🚨┃make-a-ticket.
-* 8.2.2 "Call Admin" button on FACEIT match pages will NOT be used for official admin communication. All communication must be through Discord.
+* 8.2.2 "Call Admin" button on FACEIT match pages will NOT be used for official admin communication, except during or near match time.
 * 8.2.3 For team role access to match chat, go to Discord 🙋┃role-request.
 * 8.2.4 Admins contacted through Support Channel in Crossfire GG Discord.
 
