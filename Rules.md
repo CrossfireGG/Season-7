@@ -72,9 +72,9 @@
 
 ### 1.2 Roster Submission Guidelines
 
-* 1.2.1 During registration, teams will designate a team captain from the team's Crossfire core.
-  * 1.2.1.1 **Every team's Core is exactly the three (3) players submitted in its official starting lineup at registration.** This Core-3 identity is what's tracked for seeding, VRS matching, and the roster-lock rules in Section 1.3.
-  * 1.2.1.2 Team captains may request a captain role transfer at any time, but the new captain must be part of the Core-3.
+* 1.2.1 During registration, teams must submit five starting players and designate a team captain from that starting lineup.
+  * 1.2.1.1 **Five-player reference roster:** For Non-VRS teams, this consists of their five original registered starters. For VRS-matched teams, this consists of the five players listed on their matched VRS roster in the **October 5, 2026 publication**. Teams must field at least three players from their applicable reference roster for the entirety of every match, including Playoffs. The qualifying three may differ between matches; teams do not designate three fixed core players.
+  * 1.2.1.2 Team captains may request a captain role transfer at any time, but the new captain must be a registered player on the team's official roster.
 * 1.2.2 Teams must provide complete roster information including all player names, Steam IDs, and FACEIT profiles.
 * 1.2.3 All players must meet eligibility requirements:
   * Must reside in North America.
@@ -84,20 +84,20 @@
 ### 1.3 Roster Limitations
 
 * 1.3.1 Maximum roster size: **8 players total** (5 starters, 2 substitutes, 1 coach).
-* 1.3.2 Teams must play with all **3 Core-3 players** in every match.
+* 1.3.2 **Non-VRS teams** must field at least three of their five original registered starters. **VRS-matched teams** must field at least three of the five players listed on their matched VRS roster in the **October 5, 2026 publication**. This requirement applies for the entirety of every match, including Playoffs.
 * 1.3.3 **Team coaches are permitted to substitute** as players, provided they are listed on the official roster prior to match start and meet all eligibility requirements.
 * 1.3.4 **No multi-accounting** is allowed. Violations result in immediate disqualification.
 * 1.3.5 **Roster changes:**
-  * **Group Stage:** Allowed at any time, subject to admin approval. Players added through roster changes **cannot count** toward the Core-3.
-  * **Playoff Stage (New for Season 7):** Teams may make a maximum of **2 substitute roster changes total per team** across the Playoffs, limited to the **Sub 1 / Sub 2 slots** and subject to admin approval. Each replacement of one player in either substitute slot counts as one change. Replacing both substitute players counts as two changes.
+  * **Group Stage:** Allowed at any time, subject to admin approval. Roster changes do not alter the applicable five-player reference roster defined in Section 1.2.1.1.
+  * **Playoff Stage:** Teams may make a maximum of **2 substitute roster changes total per team** across the Playoffs, limited to the **Sub 1 / Sub 2 slots** and subject to admin approval. Each replacement of one player in either substitute slot counts as one change. Replacing both substitute players counts as two changes.
   * Using a substitute who is already registered on the official roster **does not count as a substitute roster change**.
-  * **The Core-3 cannot change once Playoffs begin**, for any team, regardless of the Playoff substitute roster-change allowance above.
-  * **VRS-matched teams** must additionally keep their matched VRS core-3 present on the active roster **at all times, including throughout Playoffs.** This requirement is independent of and unaffected by the Playoff substitute roster-change allowance. Falling below three matched VRS players results in immediate disqualification to preserve VRS integrity.
+  * The applicable five-player reference roster remains fixed throughout the tournament. Any three of those five players may satisfy the match requirement; the same three are not required across matches.
+  * **VRS-matched teams** must maintain at least three players from their matched **October 5, 2026 VRS roster** on their official tournament roster throughout the tournament and field at least three of those five players for the entirety of every match. Falling below three snapshot players on the official roster results in disqualification. Approved roster changes and substitutions do not waive these requirements.
 
 ### 1.4 Substitutions
 
-* 1.4.1 **Between matches:** Teams may use registered substitutes for any reason, provided all **3 Core-3 players** remain in the lineup and, for VRS-matched teams, the matched VRS core-3 remains present. Using an already registered substitute **does not count as a roster change**. During Playoffs, teams may make a maximum of **2 changes total to the Sub 1 / Sub 2 roster slots**, subject to admin approval; see Section 1.3.5.
-* 1.4.2 **During match or between maps:** Substitutions only permitted in the event of a **verifiable emergency**, subject to admin approval.
+* 1.4.1 **Between matches:** Teams may use registered substitutes for any reason, provided the lineup fields at least three players from the applicable five-player reference roster defined in Section 1.2.1.1. Using an already registered substitute **does not count as a roster change**. During Playoffs, teams may make a maximum of **2 changes total to the Sub 1 / Sub 2 roster slots**, subject to admin approval; see Section 1.3.5.
+* 1.4.2 **During a match or between maps:** Substitutions are permitted only in the event of a **verifiable emergency**, subject to admin approval.
 * 1.4.3 Teams must contact an admin immediately via Discord ticket for emergency substitutions.
 
 ---
@@ -133,7 +133,7 @@
 * 2.3.4 **Duration:** November 14 – December 13, 2026.
 * 2.3.5 **Winner's Bracket Advantage:** Winner's Bracket champion begins Grand Final with a 1-0 map advantage.
 * 2.3.6 Reschedules permitted within each playoff round window with admin approval.
-* 2.3.7 **Roster note:** Teams may make a maximum of **2 substitute roster changes total** during Playoffs, limited to the Sub 1 / Sub 2 slots and subject to admin approval; see Sections 1.3.5 and 1.4.1. Using an already registered substitute does not count toward this limit. Core-3 (and, for VRS teams, the matched VRS core-3) must remain unchanged and present throughout.
+* 2.3.7 **Roster note:** Teams may make a maximum of **2 substitute roster changes total** during Playoffs, limited to the **Sub 1 / Sub 2 slots** and subject to admin approval; see Sections 1.3.5 and 1.4.1. Using an already registered substitute does not count toward this limit. Teams must field at least three players from their applicable fixed five-player reference roster for the entirety of every match.
 * 2.3.8 **Extended Reschedule Windows:** To protect bracket integrity, the following Winner's Bracket rounds may additionally be rescheduled past their normal round window, with admin approval:
   * WB Quarterfinals may be rescheduled through November 25.
   * WB Semifinals may be rescheduled through December 1.
@@ -142,6 +142,7 @@
 ### 2.4 Seeding and VRS
 
 * 2.4.1 Seeding will incorporate Valve Regional Standings (VRS) as a priority for VRS-eligible teams, using the fixed VRS publication dated **October 5, 2026**.
+  * 2.4.1.1 A team is VRS-matched when at least three of its five registered starters appear on the same five-player roster in the **October 5, 2026 VRS publication**. Substitutes are not counted for initial VRS matching. That matched five-player VRS roster becomes the team's fixed reference roster for the match requirements in Section 1.2.1.1.
 * 2.4.2 **Seeding Priority:**
   1. Teams with VRS ranking seeded first by VRS rank.
   2. Remaining teams seeded by their North American ESEA League division in the following order: **ECL > Advanced > Main > Intermediate > Open9-10 > Open1-8 > New Team**.
@@ -492,13 +493,13 @@ A: VRS-matched teams are seeded first, based on the fixed Valve Regional Standin
 A: By North American league division in the order **ECL > Advanced > Main > Intermediate > Open9-10 > Open1-8 > New Team**, followed by league win/loss record and documented competitive results; see Section 2.4.
 
 **Q: Can we change our substitutes during Playoffs?**  
-A: Yes. Teams may make a maximum of **2 substitute roster changes total** across the Playoffs, limited to the **Sub 1 / Sub 2 slots** and subject to admin approval. Each replacement of one player counts as one change. The Core-3 cannot change, and VRS-matched teams must keep their matched VRS core-3 present at all times.
+A: Yes. Teams may make a maximum of **2 substitute roster changes total** across the Playoffs, limited to the **Sub 1 / Sub 2 slots** and subject to admin approval. Each replacement of one player counts as one change. Every lineup must still satisfy the applicable three-of-five requirement.
 
 **Q: Does using an already registered substitute count toward the 2-change limit?**  
-A: No. The limit applies to changes to the substitute roster slots, not the number of matches played by an already registered substitute. All Core-3 requirements still apply, and substitutions during a match or between maps require a verifiable emergency and admin approval.
+A: No. The limit applies to changes to the substitute roster slots, not the number of matches played by an already registered substitute. Every lineup must still satisfy the applicable three-of-five requirement. Substitutions during a match or between maps require a verifiable emergency and admin approval.
 
 **Q: What counts as my team's "Core"?**  
-A: The exact 3 players submitted in your official starting lineup at registration; see Section 1.2.1.1.
+A: For Non-VRS teams, the reference roster is their five original registered starters. For VRS-matched teams, it is the five players listed on their matched VRS roster in the **October 5, 2026 publication**. Teams must field at least three players from the applicable five for the entirety of every match, including Playoffs. The qualifying three may differ between matches.
 
 **Q: How does the Grand Final veto work?**  
 A: **Ban → Ban → Pick → Pick → Pick → Pick.** The remaining unpicked map is awarded to the Upper Bracket winner as its automatic map advantage and is not played. The Upper Bracket winner starts the series 1–0, and the four picked maps are played in selection order until a team reaches 3 total map wins.
