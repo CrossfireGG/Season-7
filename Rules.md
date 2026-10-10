@@ -41,7 +41,7 @@
    - [6.2 Community Broadcasting](#62-community-broadcasting)
    - [6.3 CSTV Access](#63-cstv-access)
    - [6.4 Broadcast Rights](#64-broadcast-rights)
-   - [6.5 Co-Streaming Guidelines](#65-co-streaming-guidelines)
+   - [6.5 Co-Streaming](#65-co-streaming)
 7. [Penalties](#7-penalties)
    - [7.1 Cheating and Third-Party Software](#71-cheating-and-third-party-software)
    - [7.2 Exploits and Illegal Actions](#72-exploits-and-illegal-actions)
@@ -244,26 +244,23 @@
 
 ### 6.1 Player Streaming
 
-* 6.1.1 Players may stream their own POV of Crossfire GG Season 7 matches, subject to the requirements below and admin discretion.
-* 6.1.2 **Stream Delay:** Player POV streams must have at least a **120-second (2-minute) delay**, unless Crossfire administration expressly approves a different delay in writing.
+* 6.1.1 Players may stream their own POV of Crossfire Season 7 matches, subject to the requirements below and admin discretion.
+* 6.1.2 **Stream Delay:** Player POV streams must have at least a **120-second (2-minute) delay**, unless Crossfire administration approves a different delay in writing.
 * 6.1.3 **Stream Title:** Players must include **@PlayCrossfire** in the stream title.
-* 6.1.4 **VOD Settings:** Players streaming on Twitch must enable **Store past broadcasts** and **Always Publish VODs** under Settings → Stream in the Twitch dashboard. Streams on other platforms must make an equivalent full recording available to admins upon request.
+* 6.1.4 **VOD Settings:** Players streaming on Twitch must enable **Store past broadcasts** and **Always Publish VODs**. Streams on other platforms must make an equivalent full recording available to admins upon request.
 * 6.1.5 Players should link their stream in the designated Discord self-promotion channel.
-* 6.1.6 **Admin Discretion:** Crossfire administration may restrict, deny, or revoke POV streaming permission, require a longer delay, or approve exceptions to the streaming requirements for a specific match or broadcaster. Any exception requires express written admin approval through the Discord ticket system before it is used.
-* 6.1.7 Streaming permission does not authorize a player, coach, or teammate to watch or receive information from any broadcast of their ongoing match; see Section 7.4.
-* 6.1.8 Player POV streams are governed by this section. They do not require co-stream approval or a community caster role.
+* 6.1.6 **Admin Discretion:** Crossfire administration may restrict, deny, or revoke POV streaming permission, impose additional conditions, require a longer delay, or approve exceptions. Exceptions require prior written admin approval through the official Discord ticket system.
+* 6.1.7 Streaming permission does not authorize players or coaches to watch or receive information from any broadcast of their ongoing match; see Section 7.4.
+* 6.1.8 Player POV streams do not require co-stream approval or a community caster role.
 
 ### 6.2 Community Broadcasting
 
-* 6.2.1 A **community broadcast** is an independently produced broadcast using the in-game spectator feed (CSTV). Community broadcasts require **separate prior written approval from Crossfire administration**.
-* 6.2.2 Tournament participation, access to a matchroom, possession of a CSTV connection, or co-stream approval does not automatically grant community broadcast permission.
-* 6.2.3 Organizations and community casters must request approval and the community caster role through the official Discord ticket system or designated role-request channel before broadcasting.
-* 6.2.4 Matches covered on an official Crossfire channel are reserved for the official broadcast unless Crossfire administration expressly approves additional coverage. Admins may approve exceptions, including partner broadcasts or coverage in another language, at their discretion.
-* 6.2.5 Requests to broadcast in a language other than English must identify the language and receive approval before the broadcast begins.
-* 6.2.6 Available matches and approved coverage will be communicated in the designated community caster channels. Approval applies only to the matches, channels, platforms, and conditions expressly authorized.
-* 6.2.7 Community broadcasts must use at least a **120-second (2-minute) delay** unless Crossfire administration expressly approves a different delay in writing. Admins may impose additional title, attribution, recording, or coverage requirements as conditions of approval.
-* 6.2.8 Crossfire administration may deny, limit, or revoke community broadcast permission at its discretion. Broadcasters must promptly comply with instructions to change or stop coverage.
-* 6.2.9 Community caster approval does not authorize restreaming an official Crossfire or partner broadcast. Co-streaming requires approval under Section 6.5.
+* 6.2.1 Community broadcasting is governed by Crossfire's separate **Community Broadcasting Guidelines**.
+* 6.2.2 Anyone wishing to community broadcast must contact Crossfire administration through the official Discord ticket system to receive the guidelines and obtain **written approval before broadcasting**.
+* 6.2.3 Approved broadcasters must follow the guidelines and all conditions specified in their written approval.
+* 6.2.4 All permissions, restrictions, conditions, and exceptions are subject to admin discretion. Crossfire administration may approve, deny, limit, or revoke broadcast permission.
+* 6.2.5 Tournament participation, access to a matchroom, or possession of a CSTV connection does not automatically grant broadcast permission.
+* 6.2.6 Community broadcast approval does not authorize restreaming an official Crossfire or partner feed. Co-streaming requires separate approval under Section 6.5.
 
 ### 6.3 CSTV Access
 
@@ -271,119 +268,23 @@
 * 6.3.2 Approved broadcasters may receive access to designated broadcast channels where connection details are provided.
 * 6.3.3 CSTV IPs, passwords, and other restricted connection details must not be shared with unauthorized parties without prior written admin approval.
 * 6.3.4 CSTV access may be limited or revoked at admin discretion. Access does not authorize restreaming an official Crossfire or partner feed.
-* 6.3.5 Co-streamers may not join the match server or use CSTV under a co-stream approval. Independently casting from CSTV requires separate community broadcast approval under Section 6.2.
 
 ### 6.4 Broadcast Rights
 
 * 6.4.1 Official tournament matches may be broadcast by Crossfire staff or approved partners.
-* 6.4.2 **Official Broadcast Delay:** Official broadcasts must use a minimum **90-second delay**, unless Crossfire administration expressly approves a different delay in writing. Any exception to a broadcast delay does not waive the prohibition on stream sniping.
-* 6.4.3 Crossfire GG retains all broadcast rights for official tournament matches. Player POV, community broadcast, and co-stream permissions are limited permissions subject to this rulebook and any written approval conditions.
-* 6.4.4 **Unauthorized Restreaming:** Rebroadcasting, simulcasting, or retransmitting an official Crossfire or approved partner broadcast, including its video, audio, commentary, or production feed, requires prior written approval from Crossfire administration.
-* 6.4.5 Approved co-streams must follow Section 6.5. Community caster approval alone does not grant permission to co-stream or restream another broadcast.
-* 6.4.6 Broadcast violations may result in a warning, required stream changes, termination of coverage, revocation of broadcast or CSTV access, or participant penalties under Section 7, depending on the circumstances and admin discretion.
-* 6.4.7 Streaming Crossfire's official broadcast without approval is treated as an unauthorized rebroadcast. Crossfire will ask the streamer to stop and may submit a copyright takedown request to the platform if the streamer does not comply.
+* 6.4.2 **Official Broadcast Delay:** Official broadcasts must use a minimum **90-second delay**, unless Crossfire administration approves a different delay in writing.
+* 6.4.3 Crossfire retains all rights to its official broadcast production. Player streaming, community broadcast, and co-stream permissions are limited to the coverage expressly authorized.
+* 6.4.4 Rebroadcasting, simulcasting, or retransmitting an official Crossfire or approved partner broadcast, including its video, audio, or commentary, requires **prior written admin approval**.
+* 6.4.5 Broadcast violations may result in required stream changes, termination of coverage, or revocation of permission or CSTV access, at admin discretion. Participant violations may also result in penalties under Section 7.
+* 6.4.6 Broadcast permissions or delay exceptions do not waive the stream-sniping restrictions in Section 7.4.
 
-### 6.5 Co-Streaming Guidelines
+### 6.5 Co-Streaming
 
-#### 6.5.1 Overview
-
-* Crossfire welcomes co-streams, but **every co-streamer must be approved before going live**.
-* A **co-stream (watch party)** shows the official Crossfire broadcast on the co-streamer's channel with added live commentary, camera, or reactions.
-* A **community broadcast** independently casts a match from CSTV with its own production. This requires separate written approval under Section 6.2 and is not covered by co-stream approval.
-* **Player POV streams** follow Section 6.1 rather than these co-streaming guidelines.
-* Streaming the official Crossfire broadcast without approval is an unauthorized rebroadcast of Crossfire's production.
-
-#### 6.5.2 Applications and Approval
-
-* Apply in the Crossfire Discord before co-streaming.
-* Post in the designated co-stream application channel or open a ticket with:
-  * Your channel link and streaming platform.
-  * The matches or match days you want to co-stream.
-  * Any regular co-hosts who will appear on your stream.
-  * Your channel sponsors, if applicable.
-* An admin will review your application and respond in Discord.
-* Approved applicants receive the **Verified Co-Streamer** role. Do not go live with Crossfire broadcast content before receiving approval and this role.
-* Approval is personal to you and your approved channel. It cannot be shared or transferred.
-* Approval may cover a single match day or the entire season, as specified in the written approval message.
-
-#### 6.5.3 Broadcast Requirements
-
-* **Added Content:** You must add live commentary, a camera, or reactions. Showing the official feed without added content is a rebroadcast, not an approved co-stream.
-* **Official Feed Only:** Use the official Crossfire broadcast as provided. Do not capture or re-encode the feed from another co-streamer's channel.
-* **Visibility and Audio:** The Crossfire broadcast must remain visible on screen with its audio enabled throughout the broadcast, including breaks, sponsor segments, interviews, and the analyst desk.
-* Your camera and overlays must not cover the scoreboard, team names, sponsor logos, or broadcast graphics.
-* **Stay on the Event:** Do not switch to other games, other streams, or unrelated Just Chatting content while the Crossfire broadcast is live.
-* **Stream Title:** Your title must start with **Crossfire Season 7 | Team A vs Team B (Co-stream)**, replacing Team A and Team B with the actual teams playing. Update the matchup when covering another match.
-* **No In-Game Spectating:** Co-streamers may not join the match server or use CSTV for their co-stream. Independently casting from CSTV requires separate community broadcast approval.
-* Follow the terms of service and applicable rules of your streaming platform.
-
-#### 6.5.4 Sponsors
-
-* Crossfire's sponsor placements must reach co-stream viewers as presented in the official broadcast.
-* Do not cover, crop, blur, mute, skip, or talk over sponsor logos, ad reads, or sponsored segments.
-* Do not mock or disparage Crossfire or its sponsors.
-* Platform-native advertisements and your normal subscriptions, bits, and donations are allowed.
-* Your own channel sponsors may appear on screen only if they:
-  * Do not compete with a Crossfire sponsor.
-  * Are not in a prohibited sponsor category.
-  * Do not cover any part of the Crossfire broadcast.
-* **Prohibited channel sponsor categories during a Crossfire co-stream:**
-  * Gambling, sports betting, and esports betting.
-  * Skin gambling, case opening, skin trading, and skin marketplace sites.
-  * Alcohol, tobacco, vaping, and drugs.
-  * Adult content.
-  * Political advertising.
-* If you are unsure whether a sponsor is allowed, obtain admin approval before going live.
-
-#### 6.5.5 Conduct, Chat, and Guests
-
-* Co-streamers represent the event while covering it. These conduct requirements also apply to their Discord and social posts about Crossfire.
-* **Chat Moderation:** Co-streamers are responsible for removing hate speech, harassment, and spam aimed at players, casters, or admins.
-* **No Harassment:** Criticism of gameplay and competitive decisions is permitted. Personal attacks, slurs, harassment, or targeting players are prohibited.
-* **Guests:** Anyone appearing on your stream for more than a few minutes must be identified to an admin in advance. You are responsible for your guests' conduct and compliance with these rules.
-* **No Players in Active Matches:** A player whose team still has an ongoing or upcoming match that match day may not appear on your co-stream. This restriction is intended to prevent ghosting.
-* **No Claims of Official Status:** Do not describe your co-stream as "official" or imply that you represent Crossfire, its sponsors, Valve, or FACEIT.
-* **No Banned Players:** Players banned by Crossfire, FACEIT, or Valve may not appear on your co-stream.
-
-#### 6.5.6 VODs and Clips
-
-* Your co-stream VOD may remain in your channel's native VOD archive.
-* Do not upload the full co-stream to YouTube or another platform until **7 days after the match**. This restriction does not prohibit the approved live co-stream or its native VOD archive.
-* Short clips **under 60 seconds** may be posted at any time if they credit Crossfire.
-* By co-streaming, you permit Crossfire to use clips of your co-stream, including your voice and likeness, in Crossfire promotional content and highlight videos.
-* Crossfire will obtain your permission before using your voice or likeness from the co-stream in paid advertisements.
-
-#### 6.5.7 Platform Co-Stream Tools
-
-* Use your platform's built-in co-stream feature when one is available for the approved broadcast and channel.
-* Where the platform supports an official co-streamer list, Crossfire will add your approved channel to that list.
-* Start your co-stream through the supported feature rather than capturing the feed yourself, where available, so viewership can be attributed to the event.
-* If a supported feature is unavailable, obtain admin instructions on the approved method before going live.
-* Platform rules continue to apply. Unauthorized rebroadcasting may result in a copyright complaint, takedown, or other platform enforcement.
-
-#### 6.5.8 Stream Statistics
-
-* Complete the **Crossfire co-stream stats form**, provided in the Crossfire Discord, after every match day you co-stream.
-* Submit the form within **24 hours of the end of the broadcast**.
-* Crossfire uses these statistics to report total event viewership to sponsors.
-* Failure to submit the form counts as a **Strike 1 violation**. Any outstanding form must be submitted before your next approved match day.
-* Repeated failures are subject to the escalating penalties below.
-
-#### 6.5.9 Enforcement
-
-Crossfire uses a **three-strike system per season**. Admins may proceed directly to removal for serious violations.
-
-| Strike | Example Violation | Result |
-| --- | --- | --- |
-| 1 | Incorrect title, overlay covering a broadcast graphic, or missing statistics form | Warning by DM. Live broadcast issues must be corrected within 10 minutes. Outstanding statistics forms must be submitted before the next approved match day. |
-| 2 | Cutting away during a sponsor segment or ignoring a warning | Co-stream approval removed for the remainder of that match day. |
-| 3 | A third violation during the season | Co-stream approval removed for the remainder of the season. |
-| Immediate removal | Prohibited sponsor, intentionally covering a sponsor placement, harassment, ghosting, or no added commentary, camera, or reactions | Approval removed. Crossfire may report the stream or conduct to the platform, as applicable. |
-
-* Unauthorized rebroadcasts are not eligible for the three-strike process. Crossfire will ask the streamer to stop and may submit a copyright takedown request if the streamer does not comply.
-* Crossfire administration may update these guidelines or remove an approval at any time. Updates will be published in the rulebook or official Discord announcements.
-* Questions and requests for exceptions must be directed to a Crossfire admin in Discord.
-
+* 6.5.1 Co-streaming is governed by Crossfire's separate **Co-Streaming Guidelines**.
+* 6.5.2 Anyone wishing to co-stream must contact Crossfire administration through the official Discord ticket system to receive the guidelines and obtain **written approval before co-streaming**.
+* 6.5.3 Approved co-streamers must follow the guidelines and all conditions specified in their written approval.
+* 6.5.4 Co-stream approval does not grant permission to independently broadcast from CSTV. Community broadcasting requires separate approval under Section 6.2.
+* 6.5.5 All permissions, restrictions, conditions, and exceptions are subject to admin discretion. Crossfire administration may approve, deny, limit, or revoke co-stream permission.
 ---
 
 ## 7. Penalties
@@ -508,10 +409,10 @@ A: **Ban → Ban → Pick → Pick → Pick → Pick.** The remaining unpicked m
 A: Yes, subject to admin discretion, with at least a 2-minute delay, @PlayCrossfire in the title, and VODs enabled. Any exception requires prior written admin approval; see Section 6.1.
 
 **Q: Can I community cast a match?**  
-A: Community broadcasts from CSTV require separate prior written admin approval under Section 6.2. A co-stream approval does not grant CSTV or community broadcast permission.
+A: Contact Crossfire administration through the official Discord ticket system to receive the Community Broadcasting Guidelines and obtain written approval before broadcasting. Permissions and exceptions are subject to admin discretion; see Section 6.2.
 
 **Q: Can I co-stream the official Crossfire broadcast?**  
-A: Only after receiving written approval and the Verified Co-Streamer role. You must follow the co-streaming requirements in Section 6.5, including sponsor visibility, conduct, title, and statistics reporting requirements.
+A: Contact Crossfire administration through the official Discord ticket system to receive the Co-Streaming Guidelines and obtain written approval before co-streaming. Permissions and exceptions are subject to admin discretion; see Section 6.5.
 
 **Q: Can players or coaches watch their match's broadcast?**  
 A: Players and coaches may not watch a broadcast of their ongoing match, including between maps or during technical pauses, unless expressly permitted by Crossfire administration. Violations may result in a match forfeit and/or tournament ban at admin discretion.
