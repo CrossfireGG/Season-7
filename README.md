@@ -36,45 +36,48 @@ CrossfireGG operates as an open-registration Tier-2 structured competition. **Se
 
 ## Roster & Core Policy
 
-CrossfireGG does not enforce a full roster lock during the regular season or group stage. Teams may adjust players prior to playoffs, subject to tournament administration approval.
+CrossfireGG does not enforce a full roster lock during the group stage. Teams may adjust players prior to Playoffs, subject to tournament administration approval. Roster changes do not change the five-player reference roster used for the requirements below.
 
-All teams must maintain a consistent Team Core (3 players) for competitive integrity. **A team's Core-3 identity is defined by the three players submitted in its official starting lineup at registration.**
+### VRS-Matched Teams
 
-### VRS Teams
-
-- Must maintain at least three (3) players from the matched VRS roster (VRS publication dated **October 5, 2026**, fixed snapshot, see Timing below) **at all times, including throughout the Playoffs**
-- Changing one or two players does not affect VRS eligibility
-- Falling below three snapshot players results in immediate disqualification to preserve VRS integrity
-- This requirement is unaffected by the Season 7 Playoff substitution allowance below. VRS core presence is mandatory regardless of when a substitution is made
+- Must field at least three (3) of the five players listed on their matched VRS roster in the **October 5, 2026 publication** for the entirety of every match, including Playoffs.
+- Any three of those five players may satisfy this requirement. The same three players are not required across matches.
+- Must maintain at least three of those snapshot players on their official tournament roster throughout the tournament. Falling below three results in disqualification.
+- These requirements remain in effect regardless of any approved roster changes or substitutions.
 
 ### Non-VRS Teams
 
-- Must also maintain a consistent Core-3 identity for competitive integrity
-- Administrative review may occur if the core identity changes
+- Must field at least three (3) of their five original registered starters for the entirety of every match, including Playoffs.
+- Any three of those original five starters may satisfy this requirement. The same three players are not required across matches.
+- Later roster additions do not become original registered starters or change this five-player reference roster.
 
 ### Duplicate Core Restrictions
 
-- **Duplicate core rosters are not allowed.** No two teams may share 3 or more core players
-- Teams found in violation will be disqualified
-- This rule ensures roster integrity across the competitive landscape
+- No two teams may share three or more players from their applicable five-player reference rosters.
+- Teams found in violation will be disqualified.
 
 ### Roster Changes & Substitutions
 
-- **Group Stage:** Starters and substitutes may be adjusted, subject to administration approval
-- **Playoffs (New for Season 7):** Substitute changes are now permitted during the Playoffs, up to **2 substitute changes total per team**, which was locked in prior seasons. **Core-3 identity may not change during Playoffs**, and for VRS teams, the matched VRS core-3 must remain present regardless of any substitute changes made
+- **Group Stage:** Starters and substitutes may be adjusted, subject to administration approval.
+- **Playoffs:** Teams may make up to **2 substitute roster changes total**, limited to the **Sub 1 / Sub 2 slots**, subject to administration approval.
+- Each replacement of one player in either substitute slot counts as one change. Replacing both substitute players counts as two changes.
+- Using an already registered substitute does not count as a substitute roster change.
+- The applicable five-player reference roster remains fixed throughout the tournament. Every lineup must satisfy the applicable three-of-five requirement.
 
 ### Coach Substitution Rule
 
-- Registered team coaches are permitted to substitute into matches as players, provided they are listed on the official roster prior to match start and meet all eligibility requirements.
+- Registered team coaches may substitute as players, provided they are listed on the official roster before match start, meet all eligibility requirements, and the lineup continues to satisfy the applicable three-of-five requirement.
 
 ---
 
 ## Seeding Integrity Policy
 
-- Seeding reflects the core roster identity as submitted at registration
-- Core-3 continuity ensures fair seeding stability
-- Seeding does not imply a full roster lock prior to playoffs
-- Teams disqualified due to core violations will not retain seeded positions
+- VRS matching uses the fixed **October 5, 2026 VRS publication**. At least three registered starters must appear on the matched VRS roster.
+- VRS-matched teams must field at least three players from that matched five-player VRS roster throughout every match.
+- Non-VRS teams must field at least three of their five original registered starters throughout every match.
+- The qualifying three players may differ between matches.
+- Seeding does not imply a full roster lock prior to Playoffs.
+- Teams disqualified due to roster continuity violations will not retain seeded positions.
 
 ---
 
@@ -239,9 +242,10 @@ Format, entry fee, prize pool, and match structure are **unchanged from Season 6
 
 ### Roster & Substitution Policy
 
-- **New for Season 7 (substitutes allowed during Playoffs):** Season 6 fully locked rosters for Playoffs. Season 7 allows up to 2 substitute changes total per team during Playoffs; Core-3 identity still cannot change once Playoffs begin.
-- **New for Season 7 (Core-3 defined at lineup submission):** A team's Core-3 is explicitly defined as the three players submitted in its official starting lineup at registration, closing an ambiguity from Season 6.
-- **Unchanged (VRS core presence):** VRS-matched teams must keep their matched VRS core-3 present at all times, including through Playoffs, regardless of the new substitute allowance.
+- **New for Season 7:** Season 6 fully locked rosters for Playoffs. Season 7 allows up to **2 substitute roster changes total per team** during Playoffs, limited to the **Sub 1 / Sub 2 slots** and subject to admin approval.
+- **Non-VRS roster continuity:** Teams must field at least three of their five original registered starters throughout every match, including Playoffs.
+- **VRS roster continuity:** VRS-matched teams must field at least three of the five players listed on their matched VRS roster in the **October 5, 2026 publication** throughout every match, including Playoffs.
+- The applicable five-player reference roster remains fixed. Teams do not designate three fixed core players; the qualifying three may differ between matches.
 
 ### Schedule
 
