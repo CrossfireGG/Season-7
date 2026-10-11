@@ -7,6 +7,8 @@
 
 ## Quick Links
 
+- **Season 7 Registration:** [Register Your Team](https://forms.gle/HY1MUZp8a7aP2SV79)
+- **Entry Fee Payment:** [Pay the $200 Team Entry Fee](https://www.paypal.com/ncp/payment/MNFA5FBZ3GCQJ)
 - **Discord:** [discord.gg/PczPADKPvf](https://discord.gg/PczPADKPvf)
 - **Twitter (X):** [@PlayCrossFireGG](https://x.com/PlayCrossFireGG)
 - **Twitch:** [PlayCrossFire](https://www.twitch.tv/PlayCrossFire)
@@ -29,7 +31,7 @@ CrossfireGG operates as an open-registration Tier-2 structured competition. **Se
 - **Location:** Online (FACEIT)
 - **Teams:** Up to 56 Teams (48 Group Stage Teams + 8 top-seeded teams receiving a Playoff bye, all determined through open registration; final count depends on signups)
 - **Entry Fee:** $200 per team
-- **Payment:** Due immediately after registration submission via PayPal
+- **Payment:** [$200 per team via PayPal](https://www.paypal.com/ncp/payment/MNFA5FBZ3GCQJ), due immediately after registration submission.
 - **Prize Pool:** $10,000 USD (1st: $6,000 USD | 2nd: $3,000 USD | 3rd: $1,000 USD)
 
 ---
