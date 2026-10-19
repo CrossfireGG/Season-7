@@ -138,6 +138,20 @@
   * WB Quarterfinals may be rescheduled through November 25.
   * WB Semifinals may be rescheduled through December 1.
   * WB Final may be rescheduled through December 7.
+* 2.3.9 **Playoff Schedule:** All dates are 2026. Round windows below are the normal windows referenced in 2.3.6.
+  * **WB Round of 32:** November 14–16
+  * **WB Round of 16 + LB Round 1:** November 17–19
+  * **WB Quarterfinals + LB Round 2:** November 20–22
+    * WB Quarterfinals may be rescheduled through November 25 (see 2.3.8).
+  * **LB Round 3:** November 23–25
+  * **WB Semifinals + LB Round 4:** November 26–28
+    * WB Semifinals may be rescheduled through December 1 (see 2.3.8).
+  * **LB Round 5:** November 29 – December 1
+  * **WB Final + LB Round 6:** December 2–4
+    * WB Final may be rescheduled through December 7 (see 2.3.8).
+  * **LB Round 7:** December 5–7
+  * **LB Final:** December 8–10
+  * **Grand Final (BO5):** December 11–13
 
 ### 2.4 Seeding and VRS
 
