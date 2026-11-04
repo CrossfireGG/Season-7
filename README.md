@@ -29,7 +29,7 @@ CrossfireGG operates as an open-registration Tier-2 structured competition. **Se
 - **Tournament Type:** Online Tier-2, VRS-Aligned, structured in alignment with Valve Regional Standings (VRS) integrity guidelines
 - **Region:** North America
 - **Location:** Online (FACEIT)
-- **Teams:** Up to 56 Teams (48 Group Stage Teams + 8 top-seeded teams receiving a Playoff bye, all determined through open registration; final count depends on signups)
+- **Teams:** 56 Teams (48 Group Stage Teams + 8 top-seeded teams receiving a Playoff bye, all determined through open registration)
 - **Entry Fee:** $200 per team
 - **Payment:** [$200 per team via PayPal](https://www.paypal.com/ncp/payment/MNFA5FBZ3GCQJ), due immediately after registration submission.
 - **Prize Pool:** $10,000 USD (1st: $6,000 USD | 2nd: $3,000 USD | 3rd: $1,000 USD)
@@ -114,7 +114,7 @@ Teams are seeded using a **VRS-first, record-second methodology**:
 4. **Fresh Teams** (teams with no VRS match and no qualifying ESEA record) are seeded last, below every ranked team.
 5. Remaining teams (the non-bye VRS teams + all ESEA-tier + Fresh teams) are distributed across the 12 groups using a snake-seeding pattern, so every group draws from a mix of seeding bands.
 
-Full team-by-team seeding will be published in [Teams and Rankings](Teams.md) once signups close and VRS matching is complete.
+Full team-by-team seeding and group assignments are published in [Teams and Rankings](Teams.md).
 
 ### Playoff Stage
 
@@ -262,7 +262,7 @@ Format, entry fee, prize pool, and match structure are **unchanged from Season 6
 ## Documentation
 
 - Tournament Rules and Regulations: will be published as a PDF in Discord under `CROSSFIRE📖┃season-7-info`, and committed to this repo as **Rules.md**
-- [Teams and Rankings](Teams.md): populated once signups close and VRS matching/seeding is complete
+- [Teams and Rankings](Teams.md): final seeding, Playoff byes, and Group Stage assignments
 
 ---
 
