@@ -135,23 +135,23 @@
 * 2.3.6 Reschedules permitted within each playoff round window with admin approval.
 * 2.3.7 **Roster note:** Teams may make a maximum of **2 substitute roster changes total** during Playoffs, limited to the **Sub 1 / Sub 2 slots** and subject to admin approval; see Sections 1.3.5 and 1.4.1. Using an already registered substitute does not count toward this limit. Teams must field at least three players from their applicable fixed five-player reference roster for the entirety of every match.
 * 2.3.8 **Extended Reschedule Windows:** To protect bracket integrity, the following Winner's Bracket rounds may additionally be rescheduled past their normal round window, with admin approval:
-  * WB Quarterfinals may be rescheduled through November 25.
-  * WB Semifinals may be rescheduled through December 1.
-  * WB Final may be rescheduled through December 7.
+  * WB Quarterfinals may be rescheduled through November 26.
+  * WB Semifinals may be rescheduled through December 2.
+  * WB Final may be rescheduled through December 8.
 * 2.3.9 **Playoff Schedule:** All dates are 2026. Round windows below are the normal windows referenced in 2.3.6.
-  * **WB Round of 32:** November 14–16
-  * **WB Round of 16 + LB Round 1:** November 17–19
-  * **WB Quarterfinals + LB Round 2:** November 20–22
-    * WB Quarterfinals may be rescheduled through November 25 (see 2.3.8).
-  * **LB Round 3:** November 23–25
-  * **WB Semifinals + LB Round 4:** November 26–28
-    * WB Semifinals may be rescheduled through December 1 (see 2.3.8).
-  * **LB Round 5:** November 29 – December 1
-  * **WB Final + LB Round 6:** December 2–4
-    * WB Final may be rescheduled through December 7 (see 2.3.8).
-  * **LB Round 7:** December 5–7
-  * **LB Final:** December 8–10
-  * **Grand Final (BO5):** December 11–13
+  * WB Round of 32: November 14 – November 17
+  * WB Round of 16 + Losers Round 1: November 18 – November 20
+  * WB Quarterfinals + Losers Round 2: November 21 – November 23
+    * WB Quarterfinals may be rescheduled through November 26 (see 2.3.8).
+  * Losers Round 3: November 24 – November 26
+  * WB Semifinals + Losers Round 4: November 27 – November 29
+    * WB Semifinals may be rescheduled through December 2 (see 2.3.8).
+  * Losers Round 5: November 30 – December 2
+  * WB Final + Losers Round 6: December 3 – December 5
+    * WB Final may be rescheduled through December 8 (see 2.3.8).
+  * Losers Round 7: December 6 – December 8
+  * Losers Final: December 9 – December 11
+  * Grand Final (BO5): December 11 – December 13
 
 ### 2.4 Seeding and VRS
 
@@ -224,7 +224,7 @@
 
 * 4.2.1 All reschedule requests must be sent via **match chat** in Discord server.
 * 4.2.2 **Group Stage:** Matches can be rescheduled up until final day of group stage with mutual team agreement.
-* 4.2.3 **Playoff Stage:** Reschedules permitted within round window with **admin approval**. WB Quarterfinals, WB Semifinals, and the WB Final carry extended reschedule windows through November 25, December 1, and December 7 respectively; see Section 2.3.8.
+* 4.2.3 **Playoff Stage:** Reschedules permitted within round window with **admin approval**. WB Quarterfinals, WB Semifinals, and the WB Final carry extended reschedule windows through November 26, December 2, and December 8 respectively; see Section 2.3.8.
 
 ### 4.3 Punctuality and Forfeits
 
