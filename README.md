@@ -128,15 +128,15 @@ Full team-by-team seeding and group assignments are published in [Teams and Rank
 
 **Playoff Rounds:**
 
-- WB Round of 32: November 14 – November 16
-- WB Round of 16 + Losers Round 1: November 17 – November 19
-- WB Quarterfinals + Losers Round 2: November 20 – November 22
-- Losers Round 3: November 23 – November 25
-- WB Semifinals + Losers Round 4: November 26 – November 28
-- Losers Round 5: November 29 – December 1
-- WB Final + Losers Round 6: December 2 – December 4
-- Losers Round 7: December 5 – December 7
-- Losers Final: December 8 – December 10
+- WB Round of 32: November 14 – November 17
+- WB Round of 16 + Losers Round 1: November 18 – November 20
+- WB Quarterfinals + Losers Round 2: November 21 – November 23
+- Losers Round 3: November 24 – November 26
+- WB Semifinals + Losers Round 4: November 27 – November 29
+- Losers Round 5: November 30 – December 2
+- WB Final + Losers Round 6: December 3 – December 5
+- Losers Round 7: December 6 – December 8
+- Losers Final: December 9 – December 11
 - Grand Final (BO5): December 11 – December 13
 
 **Extended Reschedule Windows:** To protect bracket integrity, three Winner's Bracket rounds may be rescheduled past their normal round window, with admin approval:
